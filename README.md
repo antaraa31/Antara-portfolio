@@ -47,11 +47,3 @@ The goal is to build a strong professional digital presence that communicates bo
 ### Deployment
 - GitHub Pages  
 
-
---
-Experience
- ├── Societies, internships, and freelancing
-Hackathons and Achievements
- ├── Competitions, awards, and recognitions
-Contact
- ├── Email, GitHub, and LinkedIn
